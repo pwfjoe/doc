@@ -34,3 +34,11 @@ Linux 系统自动化安装服务，可以帮助管理员快速、自动化地�
 
 #### tinkerbell
 裸机资源调配，类似MAAS，但多了自己的DHCP和PXE引导
+
+
+
+综合管理系统
+===============
+#### Digital Rebar
+数据中心自动化、配置和基础设施即代码 (IaC) 平台 ，整合了 Cobbler+ MAAS的一个综合管理系统平台 ，官网是https://rackn.com/
+
