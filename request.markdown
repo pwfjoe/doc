@@ -48,6 +48,10 @@ Linux 系统自动化安装服务，可以帮助管理员快速、自动化地�
 网络工具
 ==============
 #### Netdisco 
-是一种基于 Web 的网络管理工具，适用于小型到大型网络。使用 SNMP、CLI 或设备 API 将 IP 和 MAC 地址数据收集到 PostgreSQL 数据库中  
-在线demo https://netdisco2-demo.herokuapp.com/  
-支持API
+Netdisco是一种基于 Web 的网络管理工具，适用于小型到大型网络。使用 SNMP、CLI 或设备 API 将 IP 和 MAC 地址数据收集到 PostgreSQL 数据库中。您可以使用 Netdisco 做的一些事情：
+
+- 通过 MAC 或 IP 在网络上定位一台机器并显示它所在的交换机端口
+- 关闭交换机端口，或更改端口的 VLAN 或 PoE 状态
+- 按型号、供应商、软件和操作系统清点您的网络硬件
+- 你网络的漂亮图片  
+请参阅演示： https: //netdisco2-demo.herokuapp.com/
