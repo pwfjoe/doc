@@ -42,3 +42,12 @@ Linux 系统自动化安装服务，可以帮助管理员快速、自动化地�
 #### Digital Rebar
 数据中心自动化、配置和基础设施即代码 (IaC) 平台 ，整合了 Cobbler+ MAAS的一个综合管理系统平台 ，官网是https://rackn.com/
 
+
+
+
+网络工具
+==============
+#### Netdisco 
+是一种基于 Web 的网络管理工具，适用于小型到大型网络。使用 SNMP、CLI 或设备 API 将 IP 和 MAC 地址数据收集到 PostgreSQL 数据库中  
+在线demo https://netdisco2-demo.herokuapp.com/  
+支持API
